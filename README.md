@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, me chamo Luis</h1>
-<h3 align="center">Guri aspirante a programador de Back</h3>
+<h3 align="center">Guri aspirante a programador</h3>
 
 - 🧠 Estudando na **Cubos Academy**
 
